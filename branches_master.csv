@@ -1,0 +1,51 @@
+Branch_ID,Branch_Name,Branch_Type,Address,City,State,Pincode
+BR-OFF-01,Official Branch 01,Official,"381, Crystal Tower, Ring Road",Gandhinagar,Gujarat,399850
+BR-OFF-02,Official Branch 02,Official,"666, Crystal Complex, CG Road",Indore,Madhya Pradesh,388351
+BR-OFF-03,Official Branch 03,Official,"356, Shree Plaza, Jetalpur Road",Bangalore,Karnataka,405295
+BR-OFF-04,Official Branch 04,Official,"721, Shree Heights, Station Road",Kochi,Kerala,383644
+BR-OFF-05,Official Branch 05,Official,"981, Shivalik Complex, VIP Road",Surat,Gujarat,381569
+BR-OFF-06,Official Branch 06,Official,"407, Siddharth Tower, Linking Road",Pune,Maharashtra,400001
+BR-OFF-07,Official Branch 07,Official,"633, Crystal Plaza, SG Highway",Delhi,Delhi,394470
+BR-OFF-08,Official Branch 08,Official,"244, Siddharth Complex, Station Road",Kochi,Kerala,409151
+BR-OFF-09,Official Branch 09,Official,"330, Titanium Heights, CG Road",Mumbai,Maharashtra,404494
+BR-OFF-10,Official Branch 10,Official,"469, Titanium Hub, Ring Road",Mumbai,Maharashtra,386834
+BR-OFF-11,Official Branch 11,Official,"866, Crystal Plaza, Station Road",Noida,Uttar Pradesh,383042
+BR-OFF-12,Official Branch 12,Official,"603, Siddharth Square, Ashram Road",Pune,Maharashtra,385887
+BR-OFF-13,Official Branch 13,Official,"231, Gala Tower, Ring Road",Mumbai,Maharashtra,395838
+BR-OFF-14,Official Branch 14,Official,"869, Crystal Hub, Ring Road",Kochi,Kerala,389622
+BR-OFF-15,Official Branch 15,Official,"250, Siddharth Hub, VIP Road",Delhi,Delhi,387476
+BR-OFF-16,Official Branch 16,Official,"717, Titanium Plaza, Station Road",Vadodara,Gujarat,397676
+BR-OFF-17,Official Branch 17,Official,"442, Crystal Arcade, CG Road",Anand,Gujarat,387365
+BR-OFF-18,Official Branch 18,Official,"458, Shivalik Hub, Ring Road",Chennai,Tamil Nadu,397072
+BR-OFF-19,Official Branch 19,Official,"813, Titanium Plaza, SG Highway",Junagadh,Gujarat,410476
+BR-OFF-20,Official Branch 20,Official,"186, Shree Complex, Ring Road",Pune,Maharashtra,383073
+BR-OFF-21,Official Branch 21,Official,"624, Shree Square, University Road",Hyderabad,Telangana,396585
+BR-OFF-22,Official Branch 22,Official,"482, Crystal Square, MG Road",Bangalore,Karnataka,392261
+BR-OFF-23,Official Branch 23,Official,"490, Gala Heights, CG Road",Hyderabad,Telangana,389826
+BR-OFF-24,Official Branch 24,Official,"304, Crystal Plaza, VIP Road",Nagpur,Maharashtra,389447
+BR-WL-01,WhiteLabel Branch 01,WhiteLabel,"Office 24, 2nd Floor, Sunrise Arcade, CG Road",Bhavnagar,Gujarat,380221
+BR-WL-02,WhiteLabel Branch 02,WhiteLabel,"Office 15, 2nd Floor, Sagar Square, Station Road",Lucknow,Uttar Pradesh,380923
+BR-WL-03,WhiteLabel Branch 03,WhiteLabel,"Office 79, 2nd Floor, Maruti Square, VIP Road",Jaipur,Rajasthan,396134
+BR-WL-04,WhiteLabel Branch 04,WhiteLabel,"Office 76, 2nd Floor, Royal Heights, Station Road",Chandigarh,Chandigarh,408621
+BR-WL-05,WhiteLabel Branch 05,WhiteLabel,"Office 71, 2nd Floor, Maruti Tower, Station Road",Jamnagar,Gujarat,390445
+BR-WL-06,WhiteLabel Branch 06,WhiteLabel,"Office 76, 2nd Floor, Om Tower, Jetalpur Road",Kolkata,West Bengal,388282
+BR-WL-07,WhiteLabel Branch 07,WhiteLabel,"Office 36, 2nd Floor, Om Heights, Ashram Road",Bangalore,Karnataka,410200
+BR-WL-08,WhiteLabel Branch 08,WhiteLabel,"Office 20, 2nd Floor, Sagar Heights, Ring Road",Noida,Uttar Pradesh,396230
+BR-WL-09,WhiteLabel Branch 09,WhiteLabel,"Office 21, 2nd Floor, Maruti Arcade, Ring Road",Vadodara,Gujarat,385449
+BR-WL-10,WhiteLabel Branch 10,WhiteLabel,"Office 54, 2nd Floor, Maruti Heights, CG Road",Chennai,Tamil Nadu,384807
+BR-WL-11,WhiteLabel Branch 11,WhiteLabel,"Office 21, 2nd Floor, Royal Plaza, University Road",Rajkot,Gujarat,406164
+BR-WL-12,WhiteLabel Branch 12,WhiteLabel,"Office 26, 2nd Floor, Royal Complex, Station Road",Surat,Gujarat,382576
+BR-WL-13,WhiteLabel Branch 13,WhiteLabel,"Office 91, 2nd Floor, Maruti Arcade, VIP Road",Lucknow,Uttar Pradesh,396823
+BR-WL-14,WhiteLabel Branch 14,WhiteLabel,"Office 47, 2nd Floor, Sagar Plaza, MG Road",Ahmedabad,Gujarat,396892
+BR-WL-15,WhiteLabel Branch 15,WhiteLabel,"Office 56, 2nd Floor, Royal Heights, Linking Road",Kolkata,West Bengal,386070
+BR-WL-16,WhiteLabel Branch 16,WhiteLabel,"Office 56, 2nd Floor, Royal Plaza, University Road",Kochi,Kerala,387443
+BR-WL-17,WhiteLabel Branch 17,WhiteLabel,"Office 54, 2nd Floor, Maruti Tower, Ashram Road",Nagpur,Maharashtra,391238
+BR-WL-18,WhiteLabel Branch 18,WhiteLabel,"Office 68, 2nd Floor, Sunrise Tower, University Road",Surat,Gujarat,390475
+BR-WL-19,WhiteLabel Branch 19,WhiteLabel,"Office 51, 2nd Floor, Royal Arcade, Ashram Road",Chennai,Tamil Nadu,407405
+BR-WL-20,WhiteLabel Branch 20,WhiteLabel,"Office 22, 2nd Floor, Royal Hub, SG Highway",Jaipur,Rajasthan,406108
+BR-WL-21,WhiteLabel Branch 21,WhiteLabel,"Office 65, 2nd Floor, Sagar Heights, University Road",Anand,Gujarat,386210
+BR-WL-22,WhiteLabel Branch 22,WhiteLabel,"Office 50, 2nd Floor, Royal Square, Ashram Road",Surat,Gujarat,401224
+BR-WL-23,WhiteLabel Branch 23,WhiteLabel,"Office 19, 2nd Floor, Royal Hub, Jetalpur Road",Hyderabad,Telangana,392078
+BR-WL-24,WhiteLabel Branch 24,WhiteLabel,"Office 93, 2nd Floor, Royal Plaza, University Road",Anand,Gujarat,406986
+BR-WL-25,WhiteLabel Branch 25,WhiteLabel,"Office 71, 2nd Floor, Sunrise Plaza, Station Road",Ahmedabad,Gujarat,396387
+BR-WL-26,WhiteLabel Branch 26,WhiteLabel,"Office 65, 2nd Floor, Sunrise Plaza, Ring Road",Jamnagar,Gujarat,407177
