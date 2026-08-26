@@ -1,10 +1,10 @@
 # 📊 EdTech & Telecom Sales & Counselor Performance Dashboard
 
-> **🚀 LIVE INTERACTIVE POWER BI DASHBOARD:** 
-> Explore the fully interactive report right in your browser: 
-> 👉 **[Click Here to Access Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjhkYjQxNWItYmZlZS00M2UwLTk3MzAtYjkxYWNkNDdhMTY5IiwidCI6IjY2ZGNhNGQyLTU0ZDktNDhiOC1hZDFhLTliOWUwNmRiMGQ5MCJ9)**
+<a href="https://app.powerbi.com/view?r=eyJrIjoiNjhkYjQxNWItYmZlZS00M2UwLTk3MzAtYjkxYWNkNDdhMTY5IiwidCI6IjY2ZGNhNGQyLTU0ZDktNDhiOC1hZDFhLTliOWUwNmRiMGQ5MCJ9" target="_blank">
+  <img src="image/Sales%20Overview.png" alt="Click to View Live Interactive Power BI Dashboard" width="100%">
+</a>
 
----
+> 🚀 **[Click Here to Open Fully Interactive Dashboard in Browser](https://app.powerbi.com/view?r=eyJrIjoiNjhkYjQxNWItYmZlZS00M2UwLTk3MzAtYjkxYWNkNDdhMTY5IiwidCI6IjY2ZGNhNGQyLTU0ZDktNDhiOC1hZDFhLTliOWUwNmRiMGQ5MCJ9)**
 
 An end-to-end Power BI dashboard built for an educational consultancy and telecommunications client — tracking lead conversion pipelines, telecommunication activity metrics, and counselor efficiency across 3 executive-facing pages.
 
